@@ -8,7 +8,9 @@ DATABASES = {
         'NAME': 'hellodb',
         'USER': 'root',
         'PASSWORD': '',
-        'HOST': 'localhost',
-        'PORT': '61733',
+        'HOST': 'db',
+        'PORT': '3306',
     }
 }
+
+# STATIC_ROOT = '/var/www/app/static'
